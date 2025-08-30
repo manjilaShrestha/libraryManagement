@@ -34,8 +34,8 @@ Git
 Quick Start
 
 1️ Clone the Project
-git clone https://github.com/your-username/myelib.git
-cd myelib/backend
+git clone https://github.com/manjilaShrestha/libraryManagement.git
+cd backend
 
 2 Install Dependencies
 npm install
