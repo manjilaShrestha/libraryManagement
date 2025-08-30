@@ -71,10 +71,10 @@ GET
 http://localhost:5000/api/borrow/my-borrows
 
 
-lIBRARIAN Management
+Librarian Management
 Method	Endpoint	Description
 
-borrowers	Register new borrower
+
 
 POST
 http://localhost:5000/api/auth/register
